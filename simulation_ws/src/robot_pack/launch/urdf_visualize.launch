@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<launch>
+
+  <!-- Robot description -->
+  <param name="robot_description" command="$(find xacro)/xacro '$(find robot_pack)/urdf/robot.xacro'" />
+
+  <node name="robot_state_publisher" pkg="robot_state_publisher" type="robot_state_publisher" />
+
+    <!-- send fake joint values -->
+  <node name="joint_state_publisher" pkg="joint_state_publisher" type="joint_state_publisher">
+    <param name="use_gui" value="False"/>
+  </node>
+
+  <!-- Show in Rviz   -->
+  <!--<node name="rviz" pkg="rviz" type="rviz" args="-d $(find <package_name>)/rviz_config/urdf.rviz"/>-->
+  <!--  args="-d $(find robot_pack)/rviz/robot.rviz-->
+   <node name="rviz" pkg="rviz" type="rviz" />
+</launch>

@@ -1,0 +1,8 @@
+prefix=/home/kiki/github_files/simulation_ws/install
+
+Name: robot_pack
+Description: Description of robot_pack
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

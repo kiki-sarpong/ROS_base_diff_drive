@@ -1,0 +1,2 @@
+my_worlds:robot_pack:turtlebot_teleop
+-DCATKIN_DEVEL_PREFIX=/home/kiki/github_files/simulation_ws/devel -DCMAKE_INSTALL_PREFIX=/home/kiki/github_files/simulation_ws/install -G Unix Makefiles
