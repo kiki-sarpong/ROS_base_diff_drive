@@ -6,3 +6,7 @@ This model is meant to be a quick starting foundation for my multiple ground rob
 The different sensors already installed make it a great starting point.<br>
 
 ![Screenshot from 2021-02-19 23-41-47](https://user-images.githubusercontent.com/17696533/108603276-12e07580-7375-11eb-95e4-db4e06852fe6.png)
+<br>
+
+![Screenshot from 2021-02-20 10-59-19](https://user-images.githubusercontent.com/17696533/108603328-5f2bb580-7375-11eb-90d0-116f9f5fd74f.png)
+<br>
