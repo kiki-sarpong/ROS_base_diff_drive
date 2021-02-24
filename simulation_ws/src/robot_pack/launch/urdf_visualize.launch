@@ -12,7 +12,7 @@
   </node>
 
   <!-- Show in Rviz   -->
-  <!--<node name="rviz" pkg="rviz" type="rviz" args="-d $(find <package_name>)/rviz_config/urdf.rviz"/>-->
-  <!--  args="-d $(find robot_pack)/rviz/robot.rviz-->
-   <node name="rviz" pkg="rviz" type="rviz" />
+  <node name="rviz" pkg="rviz" type="rviz" args="-d $(find robot_pack)/rviz/map.rviz"/>
+
+<!--   <node name="rviz" pkg="rviz" type="rviz" />-->
 </launch>

@@ -2,4 +2,5 @@
 <launch>
     <include file="$(find robot_pack)/launch/spawn_robot.launch"/>
     <include file="$(find robot_pack)/launch/robot_controllers.launch"/>
+    <include file="$(find robot_pack)/launch/load_map.launch"/>
 </launch>
