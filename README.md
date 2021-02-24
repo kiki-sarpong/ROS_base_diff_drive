@@ -1,6 +1,6 @@
 # ROS_base_diff_drive
 This is a simple base model environment for a ROS differential drive robot with <br>
-a laser scanner, IMU and 3D camera. <br> 
+a laser scanner, IMU , GPS and 3D camera. <br> 
 The robot also contains the keyboard_teleop package to manually run the robot.
 
 This model is meant to be a quick starting foundation for my multiple ground robotics projects.<br>
