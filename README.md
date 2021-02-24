@@ -11,6 +11,12 @@ The different sensors already installed make it a great starting point.<br>
 
 ![Screenshot from 2021-02-19 23-46-35](https://user-images.githubusercontent.com/17696533/108603392-a023ca00-7375-11eb-8b8c-87400e996119.png)
 
+
+<br>
+
+![Screenshot from 2021-02-23 23-20-51](https://user-images.githubusercontent.com/17696533/108947845-45b59280-762f-11eb-9498-4549ae66052f.png)
+
+
 <br>
 
 ![Screenshot from 2021-02-20 10-59-19](https://user-images.githubusercontent.com/17696533/108603328-5f2bb580-7375-11eb-90d0-116f9f5fd74f.png)
